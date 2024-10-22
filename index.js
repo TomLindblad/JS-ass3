@@ -16,12 +16,11 @@ If all requirements are met, return true,
 
 otherwise return false */
 
-let username = "1337DiscoDevil";  
-let password = "mindBlown";
+let username = "";  
+let password = "";
 let validPassword = false;
 
 isValidPassword(password, username)
-
 
 function isValidPassword(password, username) {
 
